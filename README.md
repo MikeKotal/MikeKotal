@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 * Навыки работы с SQL;
 * Знание протокола HTTP;
 * Java, RestAssured, JDI Dark framework, TestNG, JUnit 4, Gradle, Report Portal, Selenium WebDriver, Maven, Allure;
+* Навыки работы с Wiremock

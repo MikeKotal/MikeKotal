@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 **Из которых, опыт в написании автоматизированных тестов:** 1.5 года.
 
+**Успел поработать в таких крупных компаниях, как:**
+* Ростелеком Информационные Технологии на позиции Fullstack QA Engineer, с соотношением auto/manual 50/50;
+* Т-Банк (Тинькофф) на позиции Fullstack QA Engineer, с соотношением auto/manual 90/10;
+
 **Стек:** Java, Spring, JDI Dark, RestAssured, JUnit, Selenium WebDriver, TestNG, Allure TestOps, Report Portal
 
 [![My Skills](https://skillicons.dev/icons?i=java,git,idea,postman,gradle,maven,openshift,selenium,)](https://skillicons.dev)

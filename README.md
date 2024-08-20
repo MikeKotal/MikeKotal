@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **Из которых, опыт в написании автоматизированных тестов:** 1.5 года.
 
-**Стек:** Java, RestAssured, JUnit, Selenium WebDriver, TestNG, Allure
+**Стек:** Java, Spring, JDI Dark, RestAssured, JUnit, Selenium WebDriver, TestNG, Allure TestOps, Report Portal
 
 [![My Skills](https://skillicons.dev/icons?i=java,git,idea,postman,gradle,maven,openshift,selenium,)](https://skillicons.dev)
 
@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 * Работа с JSON, XML, WSDL;
 * Навыки работы с SQL;
 * Знание протокола HTTP;
-* Java, RestAssured, JDI Dark framework, TestNG, JUnit 4, Gradle, Report Portal, Selenium WebDriver, Maven, Allure;
-* Навыки работы с Wiremock
+* Java, Spring, RestAssured, JDI Dark, TestNG, JUnit, Maven, Gradle, Allure TestOps, Report Portal, Selenium WebDriver;
+* Навыки работы с Wiremock, Mountebank
+* Навыки работы с Docker, Kubernetes
